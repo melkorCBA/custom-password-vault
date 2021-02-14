@@ -1,5 +1,5 @@
 # custom-password-vault
-Custom password vault for windows using poweshell scripts
+Custom password vault for windows using powershell scripts
 
 add new password to vault
 ```powershell
